@@ -160,6 +160,11 @@ main {
         text-align: left;
     }
     
+    /* Add this new rule for mobile text alignment */
+    .content p {
+        text-align: left;
+    }
+    
     .social-links {
         justify-content: flex-start;
     }
