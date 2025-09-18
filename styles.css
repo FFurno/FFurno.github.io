@@ -196,8 +196,8 @@ main {
 
 .research-content {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 40px 20px;
+    margin: 0 20px;
+    padding: 0px;
 }
 
 .research-section {
@@ -205,25 +205,25 @@ main {
 }
 
 .research-section h2 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     color: #0563C1;
     margin-bottom: 20px;
     border-bottom: 2px solid #f0f0f0;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
 }
 
 .paper {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     padding-left: 20px;
 }
 
 .paper h3 {
-    font-size: 16px; /* Reduced from 18px */
+    font-size: 15px; 
     font-weight: 600;
-    line-height: 1.4;
-    margin-bottom: 0; /* Changed from 8px to remove gap */
-    display: inline; /* Makes title inline with details */
+    line-height: 1.2;
+    margin-bottom: 0; 
+    display: inline; 
 }
 
 .paper-title {
@@ -236,8 +236,8 @@ main {
 }
 
 .paper-details {
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: 1.2;
     color: #333;
     margin: 0;
     display: inline;
